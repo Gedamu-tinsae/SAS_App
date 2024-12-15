@@ -156,6 +156,12 @@ For production builds on Android:
 
 ---
 
+## Live Demo  
+
+- Check out the live demo of the app: [Smart Attendance System Mobile App Demo](https://www.youtube.com/watch?v=z_8I__NAT_E)  
+
+---
+
 ## Future Enhancements  
 
 - **Push Notifications** for schedule updates.  
