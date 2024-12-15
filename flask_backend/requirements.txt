@@ -1,0 +1,5 @@
+pip install Flask 
+pip install Flask-SQLAlchemy 
+pip install Flask-Login 
+pip install psycopg2-binary
+pip install flask-cors
